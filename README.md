@@ -1,0 +1,1 @@
+<a href="https://github.com/PedroTejon" width="100%"><img align="center" src="./full.svg" /></a><p>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://www.linkedin.com/in/pedro-tejon"><img src="./linkedin.svg" /></a>     <a href="mailto:pedrohtejon@gmail.com"><img src="./gmail.svg" /></a></p>
